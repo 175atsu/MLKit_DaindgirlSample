@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432788524871",
+    "firebase_url": "https://droidgirl-48d03.firebaseio.com",
+    "project_id": "droidgirl-48d03",
+    "storage_bucket": "droidgirl-48d03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432788524871:android:183c59657511f256f08662",
+        "android_client_info": {
+          "package_name": "com.example.droidgirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432788524871-vueso00irmr77nrslbbuhils668t3r4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuTPmPhEEI7r1bA2F-QrFnpdZFC4hUvYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432788524871-vueso00irmr77nrslbbuhils668t3r4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
